@@ -1,2 +1,2 @@
-# eyerockMenu
-Eyerock mod menu for the game Gorilla Tag
+# Eyerock Mod Menu
+You can download the dll file here!
